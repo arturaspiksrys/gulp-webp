@@ -46,6 +46,10 @@ Max: `100`
 Type: `boolean`  
 Default: `false`
 
+##### append .webp extension. By default extension is replaced.
+
+Type: `boolean`  
+Default: `false`
 
 ## License
 
